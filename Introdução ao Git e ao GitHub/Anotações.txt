@@ -1,1 +1,12 @@
-blablabla
+Passo a Passo para enviar arquivos para o GitHub, pela primeira vez
+- git init
+- git add
+- git commit -m
+- git remote add origin
+- git push -u origin main
+
+Passo a Passo depois da primeira vez
+- git init
+- git add
+- git commit -m
+- git push origin main
