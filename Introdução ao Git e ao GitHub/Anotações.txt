@@ -2,7 +2,7 @@ Passo a Passo para enviar arquivos para o GitHub, pela primeira vez:
 - git init
 - git add
 - git commit -m
-- git remote add origin
+- git remote add origin (adiciona HTTPS, SSH, ou GitHub CLI)
 - git push -u origin main
 
 Passo a Passo para enviar arquivos para o GitHub, depois da primeira vez:
